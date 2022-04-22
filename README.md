@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**labeebee/labeebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍👩‍👦 Father to a Dinosaur/Spiderman/Alien-friendly Space exploreer.
+- 🔭 I’m currently working on Connversational AI.
+- 🌱 I’m currently learning advanced NLP
+- 👯 I’m looking to collaborate on a tool that can automate stories for training Conversational Agents.
+- 🤔 I’m looking for help with building a UI.
+- 💬 Ask me about Rasa
+- 📫 How to reach me: [@labeeb_ibrahim](https://twitter.com/labeeb_ibrahim)
+- 😄 Pronouns: (He/Him)
+- ⚡ Fun fact: Fighting Imposter Syndrome every day.
