@@ -1,6 +1,6 @@
 ### Hey 👋
 
-- 👨‍👩‍👦 Father to a Dinosaur/Spiderman/Alien-friendly Space exploreer.
+- 👨‍👩‍👦 Father to a Dinosaur/Spiderman/Alien-friendly Space explorer.
 - 🔭 I’m currently working on Connversational AI.
 - 🌱 I’m currently learning advanced NLP
 - 👯 I’m looking to collaborate on a tool that can automate stories for training Conversational Agents.
